@@ -1,0 +1,21 @@
+{
+    "Root": "https://raw.githubusercontent.com/minis-patchers/DataPacks/refs/heads/main/WeaponKeywords/MZWeapPKG",
+    "files": [
+        "index.json",
+        "Claw1H.json",
+        "Glaive1H.json",
+        "Halberd1H.json",
+        "Javeline1H.json",
+        "Katana1H.json",
+        "Katana2H.json",
+        "Pike1H.json",
+        "Rapier1H.json",
+        "Scythe1H.json",
+        "Shortsword1H.json",
+        "Spear1H.json",
+        "Spear2H.json",
+        "Trident1H.json",
+        "Twinblade.json",
+        "Whip1H.json"
+    ]
+}
