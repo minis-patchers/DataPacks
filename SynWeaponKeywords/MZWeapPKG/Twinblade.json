@@ -1,0 +1,16 @@
+{
+    "name": "Twinblade",
+    "commonNames": [
+        "twin blade",
+        "twin-blade",
+        "twinblade"
+    ],
+    "exclude": [],
+    "excludeNames": [],
+    "include": [],
+    "keyword": [
+        "WeapTypeTwinblade"
+    ],
+    "outputDescription": "a twin-blade",
+    "validEquipType": "TwoHand"
+}
