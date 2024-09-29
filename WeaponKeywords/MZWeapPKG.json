@@ -1,6 +1,6 @@
 {
     "Root": "https://raw.githubusercontent.com/minis-patchers/DataPacks/refs/heads/main/WeaponKeywords/MZWeapPKG",
-    "files": [
+    "Files": [
         "index.json",
         "Claw1H.json",
         "Glaive1H.json",
