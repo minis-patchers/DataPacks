@@ -17,6 +17,7 @@
   },
   "sources": [
     "Skyrim.esm",
+    "Update.esm",
     "MZCoreKyds.esp"
   ]
 }
