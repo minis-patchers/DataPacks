@@ -2,13 +2,7 @@
   "Name": "SynWeaponKeywords - Mini's Package",
   "Description": "An Opinionated Weapon Keyword Package",
   "excludes": {
-    "phrases": [
-      "riekling",
-      "ice spike",
-      "icy spear",
-      "spiked",
-      "spike"
-    ],
+    "phrases": [],
     "weapons": [
       "10FCF7:Skyrim.esm",
       "04DED8:Skyrim.esm",

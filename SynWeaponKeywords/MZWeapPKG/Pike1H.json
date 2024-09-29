@@ -7,7 +7,9 @@
         "pike",
         "lance"
     ],
-    "excludeNames": [],
+    "excludeNames": [
+        "spike"
+    ],
     "outputDescription": "a pike",
     "include": [
         "00095F:Liliths Tools.esp",
