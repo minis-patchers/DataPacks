@@ -12,6 +12,7 @@
   "sources": [
     "Skyrim.esm",
     "Update.esm",
+    "TwinbladesOfSkyrim.esp",
     "MZCoreKyds.esp"
   ]
 }
