@@ -14,5 +14,6 @@
     "Update.esm",
     "TwinbladesOfSkyrim.esp",
     "MZCoreKyds.esp"
-  ]
+  ],
+  "GenMissingKeywords": true
 }
